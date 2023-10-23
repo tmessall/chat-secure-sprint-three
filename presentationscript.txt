@@ -1,0 +1,10 @@
+Description: 
+Our project is called ChatSecure, and our initial vision was to create a security camera that also functioned as a chatbot and a music player. After doing some research, we chose to use the Nao-robots presented during a Pitch Day as the hardware for our project. Video feed from what the robot can see will act as our camera, and we'll use the robot's speech functionality as our chatbot. We're currently developing an iOS app which the user will be able to use to see the camera feed, hear the audio, and more. 
+
+Demo:
+
+Show the robot in action (a few minutes)
+Show designs for the iOS app (briefly)
+
+Future Plans:
+With the robot as the foundation of our project, we're also hoping to enable a sentry mode, where the robot could patrol an area. We also want to potentially add music integration directly to the app, and maybe even motion controls for the robot based on machine learning.

@@ -1,0 +1,21 @@
+Video encoding is the process of compressing and preparing your video files for the proper formats and specifications required for playback.
+Although video compression shrinks files, it may also impact video quality. Video encoding, however, compresses your video files without compromising quality. With encoded videos, the gigabytes of data become mere megabytes. And your content becomes compatible with many devices and platforms. 
+
+
+Content aware encoding leverages the power of artificial intelligence (AI) to take video compression to the next level. Since AI's primary advantage is its capacity for highly detailed visual detection, CAE mimics the way the human eye looks at the world to compress videos for the highest quality. This optimizes encoding according to the content type, or the areas in a picture where the human eye would typically focus. So rather than just deleting identical frames, CAE encoding targets the most important and discards the rest
+
+
+Live video can be delivered over traditional networks (terrestrial, cable, or satellite) as linear TV channels. But more and more OTT (over-the-top) services now propose live video. In OTT, live video is streamed over the top of access networks via the internet to consumers. When watching a live event (sports, news, etc.) you're not viewing a scheduled recording but something that's happening now.
+That live content is delivered to your screen with the shortest possible delay. Linear TV channels, on the other hand, are delivered over traditional television networks to a TV set. Linear TV channels are scheduled viewing experiences. Consider the last time you watched the evening news on a local channel at 6:00 p.m. That's an example of a linear viewing experience.
+
+
+Key takeaways:
+Video storage can be very costly
+Need to look into compression methods and different servers
+AWS perhaps the easiest option, but may be several more
+We may not do a server at all since it's just the capstone project, and rather just one setup of robot to app
+
+
+Sources: 
+https://www.harmonicinc.com/insights/blog/video-encoding/
+https://www.harmonicinc.com/insights/blog/optimizing-live-video-delivery-in-today-connected-world
